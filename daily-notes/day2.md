@@ -35,26 +35,26 @@ Aanmaken van github
 Om toegang te krijgen in een folder
 
 ```
-'cd (folder naam)'
+cd (folder naam)
 
 ```
 
 Om toegang te krijgen in een folder in een folder
 
 ```
-'cd (folder naam/folder naam)
+cd (folder naam/folder naam)
 ```
 
 Om uit een folder te gaan
 
 ```
-'cd ..'
+cd ..
 ```
 
 Om uit een folder in een folder te gaan
 
 ```
-'cd ../..'
+cd ../..
 ```
 
 
@@ -68,31 +68,31 @@ Om uit een folder in een folder te gaan
 ### Clonen
 
 ```
-'git clone (link)'
+git clone (link)
 ```
 
 ### Pushen
 
 ```
-'git push -u origin main'
+git push -u origin main
 ```
 
 ### Git account gemaakt
 
 ```
-'git config --global user.name "Reshydon"'
+git config --global user.name "Reshydon"
 ```
 
 ```
-'git config --global user.email "reshydon14@gmail.com"'
+git config --global user.email "reshydon14@gmail.com"
 ```
 
 ```
-'git config --global user.name'
+git config --global user.name
 ```
 
 ```
-'git config --global user.email'
+git config --global user.email
 ```
 
 
@@ -100,3 +100,5 @@ Om uit een folder in een folder te gaan
 ## Markdown language
 
 ### cheat sheet
+
+Downloaded the markdown [Cheat sheet](https://github.com/Reshydon/Internship/blob/main/assets/devtools/markdown-cheat-sheet.md).
