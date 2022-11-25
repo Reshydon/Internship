@@ -1,12 +1,17 @@
 # Dag 1
 
 
-## github
-Aanmaken van github
+## Github account gemaakt
+
+GitHub, samenwerken aan veilige code
+
+GitHub is onder developers zeer bekend als samenwerkingsplatform voor het ontwikkelen van software. Vooral bekend geworden als platform voor Open Source Software, is GitHub tegenwoordig ook heel goed in te zetten voor organisaties.
+
 
 
 ### Repository
 
+Een pakketbron, softwarebron, repository of kortweg repo is een opslagplaats van software en de daarmee gerelateerde informatie zoals afhankelijkheden. De pakketbron wordt meestal aan het internet verbonden door de bestanden op een server te plaatsen.
 
 ### Repository deleten
 
@@ -16,18 +21,24 @@ Aanmaken van github
 
 ### Repository pushen
 
+---
+## Ui
 
+UI staat voor User Interface. Hierbij gaat het om het uiterlijk – de vormgeving - van een website, app of apparaat. Een UI Designer doet in principe het digitale, grafische ontwerp.
 
+- Visual Studio Code
+- Github
+
+---
 ## Visual Studio Code (VSC)
 
+Visual Studio Code is een broncode-editor ontwikkeld door Microsoft voor Windows, Linux en macOS. Het bevat ondersteuning voor debugging, ingebouwde Git-controle, syntax highlighting, intelligente code-aanvulling, codefragmenten en code refactoring.
 
-### Ui
 
 
 #### File en folder aanmaken
 
 
-#### Git commands in VSC
 
 
 #### cd commands
@@ -60,10 +71,10 @@ cd ../..
 
 
 
-
+---
 ## Git
 
-
+Git is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwarebroncode-managementproject genoemd. De nadruk ligt op snelheid.
 
 ### Clonen
 
@@ -71,11 +82,17 @@ cd ../..
 git clone (link)
 ```
 
+
 ### Pushen
+
+```
+git add .
+```
 
 ```
 git push -u origin main
 ```
+
 
 ### Git account gemaakt
 
@@ -95,8 +112,7 @@ git config --global user.name
 git config --global user.email
 ```
 
-
-
+---
 ## Markdown language
 
 ### cheat sheet
