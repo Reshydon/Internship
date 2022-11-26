@@ -1,6 +1,10 @@
 # Dag 1
 
+## Web browsing
 
+### Bookmark
+
+---
 ## Github account gemaakt
 
 GitHub, samenwerken aan veilige code
@@ -83,11 +87,19 @@ git clone (link)
 ```
 
 
-### Pushen
+### Add
 
 ```
 git add .
 ```
+
+### Commit
+
+```
+git commit -m "initial commit"
+```
+
+### Pushen
 
 ```
 git push -u origin main
@@ -96,21 +108,37 @@ git push -u origin main
 
 ### Git account gemaakt
 
+Git account naam
+
 ```
 git config --global user.name "Reshydon"
 ```
+
+Git account email
 
 ```
 git config --global user.email "reshydon14@gmail.com"
 ```
 
+Git account naam zien
+
 ```
 git config --global user.name
 ```
 
+Git account email zien
+
 ```
 git config --global user.email
 ```
+
+---
+
+## Devtool accounts
+
+- Github
+- Neflify
+- Vercel
 
 ---
 ## Markdown language
