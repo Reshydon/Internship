@@ -82,6 +82,8 @@ Git is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwa
 
 ### Clonen
 
+Kloon of kopie van die repo te maken in een nieuwe map, op een andere locatie.
+
 ```
 git clone (link)
 ```
@@ -89,17 +91,23 @@ git clone (link)
 
 ### Add
 
+File er bij doen
+
 ```
 git add .
 ```
 
 ### Commit
 
+Zeggen dat het een verandering moet aanpassen
+
 ```
 git commit -m "initial commit"
 ```
 
 ### Pushen
+
+Upload de files
 
 ```
 git push -u origin main
