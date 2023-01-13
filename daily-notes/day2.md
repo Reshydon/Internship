@@ -49,26 +49,26 @@ Visual Studio Code is een broncode-editor ontwikkeld door Microsoft voor Windows
 
 Om toegang te krijgen in een folder
 
-```
+```sh
 cd (folder naam)
 
 ```
 
 Om toegang te krijgen in een folder in een folder
 
-```
+```sh
 cd (folder naam/folder naam)
 ```
 
 Om uit een folder te gaan
 
-```
+```sh
 cd ..
 ```
 
 Om uit een folder in een folder te gaan
 
-```
+```sh
 cd ../..
 ```
 
@@ -84,7 +84,7 @@ Git is een vrij gedistribueerd versiebeheersysteem. Het wordt ook wel een softwa
 
 Kloon of kopie van die repo te maken in een nieuwe map, op een andere locatie.
 
-```
+```sh
 git clone (link)
 ```
 
@@ -93,7 +93,7 @@ git clone (link)
 
 File er bij doen
 
-```
+```sh
 git add .
 ```
 
@@ -101,7 +101,7 @@ git add .
 
 Zeggen dat het een verandering moet aanpassen
 
-```
+```sh
 git commit -m "initial commit"
 ```
 
@@ -109,7 +109,7 @@ git commit -m "initial commit"
 
 Upload de files
 
-```
+```sh
 git push -u origin main
 ```
 
@@ -118,25 +118,25 @@ git push -u origin main
 
 Git account naam
 
-```
+```sh
 git config --global user.name "Reshydon"
 ```
 
 Git account email
 
-```
+```sh
 git config --global user.email "reshydon14@gmail.com"
 ```
 
 Git account naam zien
 
-```
+```sh
 git config --global user.name
 ```
 
 Git account email zien
 
-```
+```sh
 git config --global user.email
 ```
 
